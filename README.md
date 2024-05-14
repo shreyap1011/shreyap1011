@@ -17,6 +17,9 @@ about_me = {
 <!--     <a href="mailto:gersonkroiz@gmail.com">
         <img align="center" src="https://img.shields.io/badge/-shreyap3149@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shreyap3149@gmail.com">
     </a> -->
+        <a href="mailto:shreyap3149@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/-shreyap3149@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shreyap3149@gmail.com">
+    </a>
     <br>
     <br>
 </div>
