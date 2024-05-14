@@ -14,9 +14,9 @@ about_me = {
     <a href="https://www.linkedin.com/in/shreyap3149">
         <img align="center" src="https://img.shields.io/badge/-shreyap3149-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyap3149/">
     </a>
-    <a href="mailto:gersonkroiz@gmail.com">
+<!--     <a href="mailto:gersonkroiz@gmail.com">
         <img align="center" src="https://img.shields.io/badge/-shreyap3149@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shreyap3149@gmail.com">
-    </a>
+    </a> -->
     <br>
     <br>
 </div>
