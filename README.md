@@ -11,6 +11,9 @@ about_me = {
 }
 ```
 <div align="center">
+     <a href="https://shreyap1011.github.io">
+        <img align="center" src="https://img.shields.io/badge/shreyap1011.github.io-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    </a>
     <a href="https://www.linkedin.com/in/shreyap3149">
         <img align="center" src="https://img.shields.io/badge/-shreyap3149-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyap3149/">
     </a>
